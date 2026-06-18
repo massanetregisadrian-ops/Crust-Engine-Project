@@ -1,6 +1,6 @@
-# Crust Engine
+ Engine
 
-Crust Engine is a custom Minecraft Java Edition launcher built with Python.
+ Engine is a custom Minecraft Java Edition launcher built with Python.
 
 ## Features
 
